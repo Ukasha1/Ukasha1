@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @Ukasha1
-- 👀 I’m interested in studies ...
-- 🌱 I’m currently learning 8th standard...
-- 💞️ I’m looking to collaborate on my girlfriend ...
-- 📫 How to reach me is to join my discord ...
-<!---
-Ukasha1/Ukasha1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm T S Mohammed Ukasha Ismail
+
+🎓 I just completed my 12th standard (CBSE).  
+💻 I'm passionate about programming, tech, and building cool projects.
+
+---
+
+## 🛠️ Languages and Tools
+- Python (basic to intermediate)
+- Java (beginner)
+- Currently exploring mobile app development
+
+---
+
+## 🚀 Current Learning Journey
+- Learning Java and Android development
+- Exploring how to build Android apps and publish APKs
+- Interested in tools like Flutter and Kotlin for cross-platform apps
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: ukasha121107@gmail.com
+- 🌐 LinkedIn: [your-linkedin-url]
+<!-- Replace with your actual email and links -->
+
+
+## 🧠 Fun Fact
+> "Still learning, still growing."
